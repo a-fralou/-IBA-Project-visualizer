@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+    <title>headerVoltLogo</title>
+    <defs>
+        <linearGradient x1="6.25830565%" y1="57.7634909%" x2="89.9324605%" y2="45.2617055%" id="linearGradient-1">
+            <stop stop-color="#EDA700" offset="0%"/>
+            <stop stop-color="#FEDE40" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g id="headerVoltLogo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10">
+            <rect id="Rectangle" x="0" y="0" width="32" height="32" rx="2"/>
+            <rect id="Rectangle" x="1.28" y="1.28" width="29.44" height="29.44"/>
+            <polygon id="Fill-2" fill="#93A2AD" points="18.6669106 11.7606857 23.2504024 3.58590392 10.2586939 7.2522413 8.11590268 14.8482041"/>
+            <polygon id="Fill-4" fill="url(#linearGradient-1)" points="7.57854843 16.8469083 26.2409002 11.3860662 21.1465881 19.1951472 5.58170582 23.8669545"/>
+            <polygon id="Fill-3" fill="#93A2AD" points="14.6338358 22.9954111 12.8565381 28.294756 18.7873804 21.7486076"/>
+        </g>
+    </g>
+</svg>
